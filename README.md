@@ -5,6 +5,8 @@ An AI agent for the latest function signatures crowdsourced from different opens
 
 ### access the agent here  - https://www.gaianet.ai/chat?subdomain=0xb4fdccb01e96cbbe456c2d8fceede82688b238c3.us.gaianet.network
 
+### presentation link - https://docs.google.com/presentation/d/17YEyr7jyAHq4xFDdqE6_yieMbvLI9FMSmu6OsEpPEuw/edit?usp=sharing
+
 ### use the below config json 
 
 ```
